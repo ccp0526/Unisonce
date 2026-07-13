@@ -49,6 +49,6 @@ Instead of relying purely on unique 3D models to differentiate the worlds, I lea
 
 ## 🛠️ Tech Stack & Details
 * **Engine:** Unreal Engine 5
-* **Languages:** C++, Blueprints
-* **Role:** Gameplay Programmer (Systems Architecture, Physics Interactions, State Machines, Tech Art Integration)
+* **Languages:** Blueprints
+* **Role:** Gameplay Programmer & All the stuff (Solo Project)
 * **Development Duration:** Nov 2025 - July 2026
